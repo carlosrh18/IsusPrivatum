@@ -47,12 +47,12 @@ class NavBar extends Component {
     displayMobileMenu = () => {
         return (
             <ul className='hamburgerDropDown'>
-                    <li className='nav-link'><NavLink to='/' >Home</NavLink></li>
-                    <li className='nav-link'><NavLink to='/about'>About John Williams</NavLink></li>
-                    <li className='nav-link'><NavLink to='/criminalDefence'>Criminal Defence</NavLink></li>
-                    <li className='nav-link'><NavLink to='/DUIS'>DUIS</NavLink></li>
-                    <li className='nav-link'><NavLink to='/personalInjury'>Personal Personal Injury</NavLink></li>
-                    <li className='nav-link'><NavLink to='/contact'>Contact</NavLink></li>
+                     <li className='nav-link'><NavLink to='/' >Home</NavLink></li>
+                    <li className='nav-link'><NavLink to='/about'>Nosotros</NavLink></li>
+                    <li className='nav-link'><NavLink to='/criminalDefence'>Derecho Familiar</NavLink></li>
+                    <li className='nav-link'><NavLink to='/DUIS'>Derecho Civil</NavLink></li>
+                    <li className='nav-link'><NavLink to='/personalInjury'>Derecho Mercantil</NavLink></li>
+                    <li className='nav-link'><NavLink to='/contact'>Contacto</NavLink></li>
                 </ul>
         )
     }
