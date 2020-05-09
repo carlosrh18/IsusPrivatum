@@ -4,8 +4,12 @@ class CriminalDefencePage extends Component {
     render() {
         return (
             <div className='criminal-defence'>
-                <h1>Criminal Defence Lawyer</h1>
-                <p>From misdemeanors to murder, John Williams' 37 year experience as a criminal defense attorney can assure you of the best possible outcome.  Drug possession, drug sales, assault, battery, domestic violence, white collar crime, insurance fraud, theft, are all matters with which Mr. Williams has extensive experience.   His pragmatic and practical approach to resolving criminal charges is forth right, to the point, free of unrealistic expectations or promises, based on the facts of your case and the applicable law.  He doesn't sugar coat it.  He tells it like it is.  If you seek unrealistic outcomes based on the facts and the law, or promises of favorable outcomes, seek representation elsewhere. For an honest, forthright and straight forward assessment of your case call John Williams now.</p>
+                <h1>Expertos en derecho familiar</h1>
+                <p>El Derecho Familiar por la naturaleza de las relaciones jurídicas entre los sujetos y efectos, forma parte del derecho civil y goza de una intervención especial por los órganos del Estado para la aplicación de normas que regulan los vínculos familiares.
+
+​
+
+Esto es, la familia como núcleo esencial, debe ser protegida y recibir una protección para que cada uno de sus miembros se unifique a la misma y no permita su desintegración. Así se prioriza que los hijos reciban alimentación, pero además que la convivencia con sus progenitores sea cordial y amigable, ya que las parejas se separan, pero la unión familiar es para siempre. </p>
             </div>
         );
     }

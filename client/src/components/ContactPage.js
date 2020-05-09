@@ -5,18 +5,18 @@ class ContactPage extends Component {
     render() {
         return (
             <div className='contact-page'>
-                <h1>Contact</h1>
+                <h1>Contacto</h1>
                 <div className='contact-page__email'>
                     <MdEmail />
-                    <p>johnwilliamslaw@gmail.com</p>
+                    <p>PrivatumA@gmail.com</p>
                 </div>
                 <div className='contact-page__phone'>
                     <FaPhone />
-                    <p>(760) 723-0069</p>
+                    <p>314 188 7916</p>
                 </div>
                 <div className='contact-page__address'>
                     <FaMapMarker />
-                    <p>Fallbrook San Diego, CA</p>
+                    <p>Manzanillo,Colima,México</p>
                 </div>                
             </div>
         );
